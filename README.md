@@ -36,3 +36,7 @@ _______________________________<br/>
 |              | 10pm          |<br/>
 -------------------------------|<br/>
 <pre/>
+
+
+
+https://medium.com/@janeyuhwian/step-by-step-guide-on-how-to-build-a-full-stack-application-from-scratch-80ec0044c1d
