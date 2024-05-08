@@ -20,6 +20,7 @@ Functions:<br/>
 >set beforehand: work days/sleeping schedule<br/>
 >build habits<br/>
 >set goals for week/day/month<br/>
+>connect to google callander <br/>
 
 User Interface;<br/>
 <pre>
