@@ -22,6 +22,7 @@ Functions:<br/>
 >set goals for week/day/month<br/>
 
 User Interface;<br/>
+<pre>
 ______________________<br/>
 |  3      | 7am      |<br/>
 |  daily  |          |<br/>
@@ -33,3 +34,4 @@ ______________________<br/>
 |    dump |          |<br/>
 |         | 10pm     |<br/>
 ---------------------<br/>
+<pre/>
