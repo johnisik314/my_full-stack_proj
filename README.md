@@ -20,3 +20,16 @@ Functions:<br/>
 >set beforehand: work days/sleeping schedule<br/>
 >build habits<br/>
 >set goals for week/day/month<br/>
+
+User Interface;<br/>
+______________________<br/>
+|  3      | 7am      |<br/>
+|  daily  |          |<br/>
+|  goals  |          |<br/>
+|_________|          |<br/>
+|         |          |<br/>
+|         |          |<br/>
+| mind    |          |<br/>
+|    dump |          |<br/>
+|         | 10pm     |<br/>
+---------------------<br/>
