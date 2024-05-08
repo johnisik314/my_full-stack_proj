@@ -1,8 +1,10 @@
 # time_blocking_app   |   my_first_full-stack_project
 
 Goal:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;App that teaches time-blocking to the user<br/>
-  Easy to use, helpfull app
+<ul>
+App that teaches time-blocking to the user<br/>
+Easy to use, helpfull app
+<ul/>
   
 &nbsp;&nbsp;&nbsp;&nbsp;Road Map <br/>
 Design the front-end<br />
