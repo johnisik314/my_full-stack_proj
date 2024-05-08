@@ -5,7 +5,7 @@ Goal:<br/>
 >App that teaches time-blocking to the user<br/>
 >Easy to use, helpfull app
   
-Road Map <br/>
+Road Map <br/>:
 >Design the front-end<br />
 >Build the front-end<br />
 >Build the persistence layer (back-end database and data models)<br />
