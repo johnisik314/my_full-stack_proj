@@ -1,7 +1,7 @@
 # time_blocking_app   |   my_first_full-stack_project
 
 Goal:<br/>
-  App that teaches time-blocking to the user
+&nbsp;&nbsp;&nbsp;&nbsp;App that teaches time-blocking to the user
   Easy to use, helpfull app
   
 
